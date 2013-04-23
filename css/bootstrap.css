@@ -6037,3 +6037,30 @@ a.badge:hover {
 .affix {
   position: fixed;
 }
+
+img.oikein
+{
+  border: 2px solid lime;
+}
+
+img.vaarin
+{
+  border: 2px solid red;
+}
+
+img.ei-valittu
+{
+  border: 2px solid #333333;
+}
+
+div#gridit
+{
+  width: 200px;
+  height: 194px;
+  background: url('../img/gridit.jpg');
+}
+
+div.grid
+{
+  background-color: #000000;
+}
